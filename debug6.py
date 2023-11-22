@@ -6,5 +6,8 @@ original code:
 """
 x = 3
 y = 4
+
 if x > y:
     print("y is larger than x")
+else:
+    print("x is not greater than y")

@@ -14,10 +14,9 @@ else:
 """
 
 x = 3
-y = 7
-z = 9
+y = 4
 
-if x < y > z:
-    print("the middle number is ", y)
+if x > y:
+    print("y is larger than x")
 else:
-    print("the middle number is not",y)
+    print("x is not greater than y")
